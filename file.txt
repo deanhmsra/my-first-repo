@@ -1,2 +1,7 @@
-hello world
-# my-first-repo
+# UNLV First Class Repository
+
+This repository is:
+
+-an introduction
+-really cool
+-my work
